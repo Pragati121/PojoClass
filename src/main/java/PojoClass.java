@@ -1,8 +1,12 @@
 public class PojoClass {
     String name;
     String email;
+
+
+
     public PojoClass(String name, String email) {
         this.name = name;
+
         this.email = email;
     }
 
